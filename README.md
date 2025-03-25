@@ -30,10 +30,25 @@ The Jupyter notebooks for the labs can be found in the `labs` folder of
 this Git repository.
 
 **Class #1**
-
 - What is MLOps ?
 - Start MLOps with Mlflow framework
 - Mlflow lab on local computers
+
+**Class #2**
+- Introducing GCP AI services (Vertex AI)
+- Focus on FlowML services on GCP
+- FlowML lab
+
+**Class #3**
+- Deploy a model behind a Vertex AI endpoint
+- Batch and streaming inference
+- Scaling
+- A/B testing
+
+
+**Class #5**
+- What is a RAG ?
+- Implementing a RAG on Vertex AI
 
 #### Requirements
 
